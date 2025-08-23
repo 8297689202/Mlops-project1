@@ -18,8 +18,8 @@ class Cleaner:
         data['Switch']=data['Switch'].fillna(-1)
         data['PastAccident']=data['PastAccident'].fillna("Unknown",inplace=True)
 
-        Q1=data['AnnualPremium'].qunatile(0.25)
-        Q3=data['AnnualPremium'].qunatile(0.75)
+        Q1=data['AnnualPremium'].quantile(0.25)
+        Q3=data['AnnualPremium'].quantile(0.75)
         IQR=Q3-Q1
         upper_bound=Q3+ 1.5 * IQR
         data=data[data['AnnualPremium']<=upper_bound]

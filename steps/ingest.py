@@ -6,7 +6,7 @@ class Ingestion:
         self.config=self.load_config()
     
     def load_config(self):
-        with open ("config.yaml","r") as file:
+        with open ("config.yml","r") as file:
             return yaml.safe_load(file)
         
     def load_data(self):
