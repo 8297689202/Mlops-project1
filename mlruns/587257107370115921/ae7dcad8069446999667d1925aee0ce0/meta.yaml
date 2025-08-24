@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/587257107370115921/ae7dcad8069446999667d1925aee0ce0/artifacts
+end_time: 1756051871670
+entry_point_name: ''
+experiment_id: '587257107370115921'
+lifecycle_stage: active
+run_id: ae7dcad8069446999667d1925aee0ce0
+run_name: honorable-lamb-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756051870081
+status: 3
+tags: []
+user_id: ayushgaur

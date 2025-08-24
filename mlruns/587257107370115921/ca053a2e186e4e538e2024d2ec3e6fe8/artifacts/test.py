@@ -8,8 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
-# mlflow.set_tracking_uri("file:./mlruns")
+mlflow.set_tracking_uri("file:./mlruns")
 
 # Load Wine dataset
 wine = load_wine()

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/587257107370115921/6e6d22f6c11241648b7cd98ae97b4e15/artifacts
+end_time: 1756052721870
+entry_point_name: ''
+experiment_id: '587257107370115921'
+lifecycle_stage: active
+run_id: 6e6d22f6c11241648b7cd98ae97b4e15
+run_name: whimsical-goose-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756052720255
+status: 3
+tags: []
+user_id: ayushgaur

@@ -8,8 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
-# mlflow.set_tracking_uri("file:./mlruns")
+mlflow.set_tracking_uri("file:./mlruns")
 
 # Load Wine dataset
 wine = load_wine()
@@ -20,8 +19,8 @@ y = wine.target
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=42)
 
 # Define the params for RF model
-max_depth =12
-n_estimators = 4
+max_depth = 10
+n_estimators = 6
 
 # Mention your experiment below
 mlflow.set_experiment('YT-MLOPS-Exp3')

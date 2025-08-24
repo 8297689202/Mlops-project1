@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/587257107370115921/ccb4c49246c04a0fa2add38095d15177/artifacts
+end_time: 1756051311380
+entry_point_name: ''
+experiment_id: '587257107370115921'
+lifecycle_stage: active
+run_id: ccb4c49246c04a0fa2add38095d15177
+run_name: nervous-perch-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756051309868
+status: 3
+tags: []
+user_id: ayushgaur

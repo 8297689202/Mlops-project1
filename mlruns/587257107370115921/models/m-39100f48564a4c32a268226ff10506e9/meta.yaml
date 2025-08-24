@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/587257107370115921/models/m-39100f48564a4c32a268226ff10506e9/artifacts
+creation_timestamp: 1756052536382
+experiment_id: '587257107370115921'
+last_updated_timestamp: 1756052537751
+model_id: m-39100f48564a4c32a268226ff10506e9
+model_type: null
+name: RandomForestClassifier
+source_run_id: ca053a2e186e4e538e2024d2ec3e6fe8
+status: 2
+status_message: null
