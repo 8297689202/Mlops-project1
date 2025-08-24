@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/221904383502881780/models/m-a72312441e274f3a8fb079ffee7dfa16/artifacts
+creation_timestamp: 1756039779601
+experiment_id: '221904383502881780'
+last_updated_timestamp: 1756039781137
+model_id: m-a72312441e274f3a8fb079ffee7dfa16
+model_type: null
+name: Random-Forest-Model
+source_run_id: e67c51ff939d4bbb8c50739619a2a27d
+status: 2
+status_message: null

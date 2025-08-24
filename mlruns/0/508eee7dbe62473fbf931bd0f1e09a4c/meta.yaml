@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/508eee7dbe62473fbf931bd0f1e09a4c/artifacts
+end_time: 1756040209053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 508eee7dbe62473fbf931bd0f1e09a4c
+run_name: delightful-grub-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756040209039
+status: 3
+tags: []
+user_id: ayushgaur

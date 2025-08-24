@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/221904383502881780/e67c51ff939d4bbb8c50739619a2a27d/artifacts
+deleted_time: 1756040085895
+end_time: 1756039781139
+entry_point_name: ''
+experiment_id: '221904383502881780'
+lifecycle_stage: deleted
+run_id: e67c51ff939d4bbb8c50739619a2a27d
+run_name: classy-doe-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756039779037
+status: 3
+tags: []
+user_id: ayushgaur
