@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244/475aff17374a4d7884e6164ad7342255/artifacts
+end_time: 1756058419905
+entry_point_name: ''
+experiment_id: '560055922138300244'
+lifecycle_stage: active
+run_id: 475aff17374a4d7884e6164ad7342255
+run_name: treasured-lynx-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756058419898
+status: 3
+tags: []
+user_id: ayushgaur

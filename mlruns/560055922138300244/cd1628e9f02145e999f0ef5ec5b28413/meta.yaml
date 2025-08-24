@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244/cd1628e9f02145e999f0ef5ec5b28413/artifacts
+end_time: 1756058419897
+entry_point_name: ''
+experiment_id: '560055922138300244'
+lifecycle_stage: active
+run_id: cd1628e9f02145e999f0ef5ec5b28413
+run_name: zealous-stork-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756058419890
+status: 3
+tags: []
+user_id: ayushgaur

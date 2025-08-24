@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244/6f0ffc89cd33495cbbe71f1e8342f8e7/artifacts
+end_time: 1756058419921
+entry_point_name: ''
+experiment_id: '560055922138300244'
+lifecycle_stage: active
+run_id: 6f0ffc89cd33495cbbe71f1e8342f8e7
+run_name: respected-ape-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756058419914
+status: 3
+tags: []
+user_id: ayushgaur

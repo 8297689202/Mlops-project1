@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244/a4f9d67fe1d94d3f9c845f1785e6360d/artifacts
+end_time: 1756058419856
+entry_point_name: ''
+experiment_id: '560055922138300244'
+lifecycle_stage: active
+run_id: a4f9d67fe1d94d3f9c845f1785e6360d
+run_name: burly-calf-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756058419849
+status: 3
+tags: []
+user_id: ayushgaur

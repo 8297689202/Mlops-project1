@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244/01104949ed6d43a0bf77e8ed7e749b1e/artifacts
+end_time: 1756058419872
+entry_point_name: ''
+experiment_id: '560055922138300244'
+lifecycle_stage: active
+run_id: 01104949ed6d43a0bf77e8ed7e749b1e
+run_name: inquisitive-squid-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756058419865
+status: 3
+tags: []
+user_id: ayushgaur

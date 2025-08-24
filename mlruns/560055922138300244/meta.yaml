@@ -1,0 +1,6 @@
+artifact_location: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244
+creation_time: 1756058417730
+experiment_id: '560055922138300244'
+last_update_time: 1756058417730
+lifecycle_stage: active
+name: breast-cancer-rf-hp

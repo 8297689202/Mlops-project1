@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/587257107370115921/81298c876c9649198ac4f2873db0ed5b/artifacts
+end_time: 1756057761596
+entry_point_name: ''
+experiment_id: '587257107370115921'
+lifecycle_stage: active
+run_id: 81298c876c9649198ac4f2873db0ed5b
+run_name: masked-ox-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756057759767
+status: 3
+tags: []
+user_id: ayushgaur

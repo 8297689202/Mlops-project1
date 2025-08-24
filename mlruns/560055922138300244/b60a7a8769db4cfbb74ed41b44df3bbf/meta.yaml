@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244/b60a7a8769db4cfbb74ed41b44df3bbf/artifacts
+end_time: 1756058421458
+entry_point_name: ''
+experiment_id: '560055922138300244'
+lifecycle_stage: active
+run_id: b60a7a8769db4cfbb74ed41b44df3bbf
+run_name: dashing-seal-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756058417976
+status: 3
+tags: []
+user_id: ayushgaur

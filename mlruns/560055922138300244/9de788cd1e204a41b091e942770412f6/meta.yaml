@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244/9de788cd1e204a41b091e942770412f6/artifacts
+end_time: 1756058419889
+entry_point_name: ''
+experiment_id: '560055922138300244'
+lifecycle_stage: active
+run_id: 9de788cd1e204a41b091e942770412f6
+run_name: youthful-whale-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756058419881
+status: 3
+tags: []
+user_id: ayushgaur

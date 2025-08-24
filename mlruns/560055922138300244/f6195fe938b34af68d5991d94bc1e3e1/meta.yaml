@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244/f6195fe938b34af68d5991d94bc1e3e1/artifacts
+end_time: 1756058419941
+entry_point_name: ''
+experiment_id: '560055922138300244'
+lifecycle_stage: active
+run_id: f6195fe938b34af68d5991d94bc1e3e1
+run_name: entertaining-wasp-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756058419932
+status: 3
+tags: []
+user_id: ayushgaur

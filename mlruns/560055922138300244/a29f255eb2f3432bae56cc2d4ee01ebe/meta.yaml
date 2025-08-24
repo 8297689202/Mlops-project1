@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/560055922138300244/a29f255eb2f3432bae56cc2d4ee01ebe/artifacts
+end_time: 1756058419913
+entry_point_name: ''
+experiment_id: '560055922138300244'
+lifecycle_stage: active
+run_id: a29f255eb2f3432bae56cc2d4ee01ebe
+run_name: angry-rook-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756058419906
+status: 3
+tags: []
+user_id: ayushgaur

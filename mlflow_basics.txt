@@ -56,3 +56,22 @@
 
 - **Use Cases:** `mlflow.autolog` is great for quick and convenient logging, especially for standard workflows in supported frameworks.
 - **Limitations:** Custom elements, complex structures, and unsupported frameworks require manual logging to capture all relevant details.
+
+
+
+so we have seen both the way to log that is using local directory 
+and using dagshub 
+https://dagshub.com/8297689202/Mlops-project1.mlflow
+
+
+import dagshub
+dagshub.init(repo_owner='8297689202', repo_name='Mlops-project1', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+
+so dagshub mien bs tracking uri change ho jayega aur ek line add krni padti hai
+import dagshub
+dagshub.init(repo_owner='8297689202', repo_name='Mlops-project1', mlflow=True)
