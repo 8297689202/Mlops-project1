@@ -70,7 +70,7 @@ def train_with_mlflow():
         tuner = HyperparameterTuner()
         search_results = tuner.run_tuning_workflow(
             data=train_data,
-            search_type='random'
+            search_type='grid'
         )
         
         # Log hyperparameter tuning results in MLflow

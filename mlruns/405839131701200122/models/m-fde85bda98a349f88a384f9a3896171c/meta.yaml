@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/405839131701200122/models/m-fde85bda98a349f88a384f9a3896171c/artifacts
+creation_timestamp: 1756139588029
+experiment_id: '405839131701200122'
+last_updated_timestamp: 1756139589677
+model_id: m-fde85bda98a349f88a384f9a3896171c
+model_type: null
+name: model
+source_run_id: cd060b8869f145bcab4573f41afe6f56
+status: 2
+status_message: null

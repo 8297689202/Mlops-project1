@@ -1,0 +1,16 @@
+data:
+  test_path: data/test.csv
+  train_path: data/train.csv
+model:
+  name: DecisionTreeClassifier
+  params:
+    criterion: entropy
+    max_depth: null
+    max_features: null
+    min_samples_leaf: 2
+    min_samples_split: 2
+  store_path: models/
+train:
+  random_state: 42
+  shuffle: true
+  test_size: 0.2

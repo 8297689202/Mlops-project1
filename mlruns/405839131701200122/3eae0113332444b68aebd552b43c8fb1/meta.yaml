@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayushgaur/Documents/personal/Mlops-project/small_mlops_proj/Mlops-project1/mlruns/405839131701200122/3eae0113332444b68aebd552b43c8fb1/artifacts
+end_time: 1756139067018
+entry_point_name: ''
+experiment_id: '405839131701200122'
+lifecycle_stage: active
+run_id: 3eae0113332444b68aebd552b43c8fb1
+run_name: incongruous-fox-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756138994077
+status: 4
+tags: []
+user_id: ayushgaur
